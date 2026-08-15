@@ -1,1 +1,7 @@
-.venv/
+.delay
+sin_440_delayed.wav
+sin_440_final_delay.wav
+sin_440_optimized_delay.wav
+sin_440.wav
+step1_sine_wav
+*.wav
